@@ -51,9 +51,7 @@ https://github.com/user-attachments/assets/7dbf0c0b-3117-4687-998c-a8b8be0828ad
   <li>Open the <code>index.html</code> file in your browser to view the project.</li>
     </ol>
 
-  <h2>🖼️ Preview</h2>
-    <p>Here's a preview of the slider:</p>
-    <img src="asset/image/preview.jpg" alt="Project Preview" width="80%" />
+ 
 
   <h2>🛠️ Technologies Used</h2>
     <ul>
